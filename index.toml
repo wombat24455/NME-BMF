@@ -376,6 +376,11 @@ hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "8ae5db846ae42b6d68f1fefd682c78d642661e7ff245c03e502c7b03fbb12ff4"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "16aa1e6c7c6d4b076b13f249e2c2fbc418f800e973b3abed58e36a8bd6284c98"
 metafile = true
@@ -538,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "ad2874c78f58e4ad32df670dfd3be7238736172402b15691baa87d97b9e2d25b"
 metafile = true
 
 [[files]]
