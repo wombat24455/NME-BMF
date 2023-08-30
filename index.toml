@@ -56,6 +56,11 @@ hash = "3b42dd42c124325a194e8784f2658dc5d3aebf6fe20da393ac76e0eef098a38d"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
@@ -201,6 +206,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "39156f7792743dff8d2126b1c419633a2872984401b5f85546330b849bc9db4d"
+metafile = true
+
+[[files]]
 file = "mods/frosted-friends.pw.toml"
 hash = "4efed8626f0ff07495aedddb228c128a86b09345a242dc022fa445e2ff37a05b"
 metafile = true
@@ -321,6 +331,16 @@ hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "e041e00d5469efd2ad52d084da426c781ec13df532dce3cf1b9bedf30079b984"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "090b142f2ccd86265f8dc1d52c8d83f785aa9712bd088b11cd6cdf65ea6c1c98"
+metafile = true
+
+[[files]]
 file = "mods/observerlib.pw.toml"
 hash = "8a2ae2e0314307a913514d5447466e3a50cc00a78e936e4e6be4497a406afa56"
 metafile = true
@@ -363,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
 metafile = true
 
 [[files]]
@@ -411,6 +436,16 @@ hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9103343f6fb5d720f09ce45eee2ba77c892191b43082067da89be04d9fd25a60"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "a11396ee6473345fff9ce1539f1897fa2b370faabe651f1536a1da0577277438"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
 metafile = true
@@ -428,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/treasure-bags.pw.toml"
 hash = "2a0b25ac9967d2f9b1e28901d46bae8e262f39a34b2440329286a0b938d4f392"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "1f75067df1765b14e351d52f9ca96c644626cdace06b3c8a130d4b995a150f7c"
 metafile = true
 
 [[files]]
