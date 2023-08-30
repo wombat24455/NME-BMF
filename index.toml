@@ -11,6 +11,11 @@ hash = "aa8adc794cf6f3d5b641a1fcea9f5a2b7028009f19b226ce14160dd971c48993"
 metafile = true
 
 [[files]]
+file = "mods/angel-ring.pw.toml"
+hash = "665594215dbdc74b86a71c1943a9b414af9ff6df11b4f7ef6045956d8ba33ffe"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "725fb099daedadf39a6596de0bae947e98168a995f8e7e8ce3b70ee0b9e5a0f7"
 metafile = true
