@@ -201,6 +201,11 @@ hash = "871b0cb97b3833d60734c71bbd069a521e009a1b97d7595138cd9ce34a9979ae"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "aa7791567710f5ed615f4bcc513a65ac80807982996408e7a3c281f4a2bc5a56"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
 metafile = true
@@ -213,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.pw.toml"
 hash = "e38fff8adee63958f6ff14a1d1a4fab47dce569d969d403747b1a1c1d2e0986c"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "2d85cf469f1424634eaf9dc649a1feb14c88692f701273b27505c3dd2742c09f"
 metafile = true
 
 [[files]]
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c7ec1444792e09cced117d3ad2d27f2c4d952dd1989b3110ef98c4970f228ab4"
 metafile = true
 
 [[files]]
