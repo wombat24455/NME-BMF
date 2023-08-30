@@ -81,11 +81,6 @@ hash = "0542b0b4cf6a1406c6325971787095ad4e4bcfefe1ad106e7c6d0db2fdbab401"
 metafile = true
 
 [[files]]
-file = "mods/camera-overhaul-forge.pw.toml"
-hash = "d52a554dbf86946e82b2a9d1202675ebf917bc5e6f42e93cb783888a6524fe25"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "35cd0b72092f5423d6430cc8aa37c182dbf01edfe42bc8785819779fc3d6f16d"
 metafile = true
