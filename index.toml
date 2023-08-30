@@ -426,6 +426,11 @@ hash = "9103343f6fb5d720f09ce45eee2ba77c892191b43082067da89be04d9fd25a60"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "a11396ee6473345fff9ce1539f1897fa2b370faabe651f1536a1da0577277438"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
 metafile = true
