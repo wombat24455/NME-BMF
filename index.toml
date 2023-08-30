@@ -71,6 +71,11 @@ hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
 
 [[files]]
+file = "mods/biomancy.pw.toml"
+hash = "ab7bb709a84fefbcac213a95f097621cca050e8168ee51445acf2435a9f24530"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
+metafile = true
+
+[[files]]
+file = "mods/combat-commons.pw.toml"
+hash = "987c79a2ddc14a193382cc3501bc84a90689ca2d4b9a76c24f805ef356043982"
 metafile = true
 
 [[files]]
@@ -301,6 +311,11 @@ hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "16aa1e6c7c6d4b076b13f249e2c2fbc418f800e973b3abed58e36a8bd6284c98"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
@@ -378,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "d718dbaf53f870c0746b71c20c070d550bc35753f4e5fe6661bfa760d01fb52e"
+metafile = true
+
+[[files]]
+file = "mods/pandoras-box.pw.toml"
+hash = "30bdf80316337b6a6a6d3a5a3708ebac0a011d1c1d514d6130661848f54bfeb8"
 metafile = true
 
 [[files]]
