@@ -266,6 +266,11 @@ hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
 metafile = true
 
 [[files]]
+file = "mods/l_ender-s-cataclysm.pw.toml"
+hash = "7e6680eaf3af46acac0bcbd468f3490267e3c0d04a4f29f77cc32712cef55406"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "157d2e80198dfee4d01578d9e034eb46b2089d1cc70e03e0d571046ab9d12579"
 metafile = true
