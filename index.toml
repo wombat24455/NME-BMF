@@ -366,6 +366,11 @@ hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
 metafile = true
 
 [[files]]
+file = "mods/nether-portal-spread.pw.toml"
+hash = "4e7332903e246ca9067a4a0233768febee04bb0e0000dfa5a9013c24caf98e9a"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
 metafile = true
