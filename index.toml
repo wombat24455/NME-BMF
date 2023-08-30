@@ -71,6 +71,11 @@ hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
 
 [[files]]
+file = "mods/betternether-reforged.pw.toml"
+hash = "93db0d9a8538c2e302afa9f52c6efab4e3460cc33a398c101dffa2d0ebd3574a"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "ab7bb709a84fefbcac213a95f097621cca050e8168ee51445acf2435a9f24530"
 metafile = true
