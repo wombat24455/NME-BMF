@@ -6,6 +6,11 @@ hash = "59c031acd428bb40e6fbf42300f5b7f6f43cbe99c03c421539b0af065cb90080"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "3ef39814eff961d73203456044854e801f8f1f3447bdf5b6fa3c1c26d234ce18"
+metafile = true
+
+[[files]]
 file = "mods/areas.pw.toml"
 hash = "d6c3cfacd037d8c774f0c67fd840057217fa7f35042b1d67d444e21012017262"
 metafile = true
@@ -16,13 +21,28 @@ hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "0542b0b4cf6a1406c6325971787095ad4e4bcfefe1ad106e7c6d0db2fdbab401"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "02d3751895e1aea3675afb6d16424e4dcefdcf8c3fe9c486fda53b250e624ced"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "67a32a2480285afa9bd3bab47fc674a2cca4434db092e69949476750b02a6074"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
+metafile = true
+
+[[files]]
+file = "mods/cucumber.pw.toml"
+hash = "3f224b17c8bb8d913ae1acd3ae272d8a8b73d565523b5da5af7d85b4780fea10"
 metafile = true
 
 [[files]]
@@ -36,13 +56,73 @@ hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "da8427f8dbe0bcc6f2dd87c7068874f5b37043ccfa2af5b0167c72fa288150da"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "bc72a59c06f9128b3c0fd6983e87c64e12075708b047c218d79dafeb73dd70b1"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "fe3b73d41512471f2e6a1587fe7ef07e7bd436fa9be27a22ac1f8d40443ba15e"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "cf53f465b794bd203569f69f068fa3265d03fb612a00f69ac8f70d55507ece9a"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "a7a51313e39f2dcc3bbfc2a9cc6b0920d25b7a39e989479787a6d4aed752d6e9"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "cca1d003d1f4ff138be6a04cedac1f97e1f4a85862d5958d97aed82e951a78ff"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "aab2419fe29a0b13b10ae0b71bb549f80d2e5e1541677c0982012c77711326f5"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "d7605878a5a7cdb600d80b10b1dadb02b9ef7eef4c5b810898e50cde5a263261"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "d718dbaf53f870c0746b71c20c070d550bc35753f4e5fe6661bfa760d01fb52e"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
 
 [[files]]
