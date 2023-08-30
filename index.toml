@@ -6,6 +6,16 @@ hash = "59c031acd428bb40e6fbf42300f5b7f6f43cbe99c03c421539b0af065cb90080"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "aa8adc794cf6f3d5b641a1fcea9f5a2b7028009f19b226ce14160dd971c48993"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "725fb099daedadf39a6596de0bae947e98168a995f8e7e8ce3b70ee0b9e5a0f7"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3ef39814eff961d73203456044854e801f8f1f3447bdf5b6fa3c1c26d234ce18"
 metafile = true
@@ -26,8 +36,18 @@ hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
 
 [[files]]
+file = "mods/beyond-earth.pw.toml"
+hash = "51fc116dc93cd5d2e3b7c472c1d18678b5a5fd7c0972d16899414599df240b53"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "956c4c9554aa266e61a9635d05d1dcf85a536349a3f8e1e3d5f8c96c94c08533"
 metafile = true
 
 [[files]]
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
 metafile = true
 
 [[files]]
