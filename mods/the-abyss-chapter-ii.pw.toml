@@ -1,0 +1,13 @@
+name = "The Abyss II - The Other Side"
+filename = "TheAbyss2 2.2.3-4 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eca827c07bc526e24b18590bfc1e841881bb8e0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3776944
+project-id = 440647

@@ -1,0 +1,13 @@
+name = "[Add-On] The Abyss: Beginning"
+filename = "TA2 beginning 1.0.9 1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90ea86eff78b2f5c9ea3525144589d78a238b771"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3235157
+project-id = 446711
