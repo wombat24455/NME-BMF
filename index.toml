@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/add-on-the-abyss-beginning.pw.toml"
+hash = "86ec24414dfb457eca90bb8879c566c7dfdd8064bea0703327b09450774dc8eb"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "59c031acd428bb40e6fbf42300f5b7f6f43cbe99c03c421539b0af065cb90080"
 metafile = true
@@ -433,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
+metafile = true
+
+[[files]]
+file = "mods/the-abyss-chapter-ii.pw.toml"
+hash = "1baf7add94f42b32b8305a4f5473c13d1744387312e7a4b321cba7ab6c318a10"
 metafile = true
 
 [[files]]
