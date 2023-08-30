@@ -46,11 +46,6 @@ hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod.pw.toml"
-hash = "16eb12246149ac9be3270100b08f3d495eb905444c3fbafdbda0d04f7e2ac5ea"
-metafile = true
-
-[[files]]
 file = "mods/rats.pw.toml"
 hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
 metafile = true
