@@ -51,6 +51,11 @@ hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "12892f588a6b194af62f65a02d455ad6cb62715e11a7cb04f2b5291ca7b1c840"
+metafile = true
+
+[[files]]
 file = "mods/blue-skies.pw.toml"
 hash = "956c4c9554aa266e61a9635d05d1dcf85a536349a3f8e1e3d5f8c96c94c08533"
 metafile = true
@@ -131,6 +136,11 @@ hash = "1da259efe44c59b295ce121e4a5779a8de5b893de673db071fd8b5132d09a022"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
+metafile = true
+
+[[files]]
 file = "mods/expandability.pw.toml"
 hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
 metafile = true
@@ -141,8 +151,23 @@ hash = "e38fff8adee63958f6ff14a1d1a4fab47dce569d969d403747b1a1c1d2e0986c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
+metafile = true
+
+[[files]]
+file = "mods/frosted-friends.pw.toml"
+hash = "4efed8626f0ff07495aedddb228c128a86b09345a242dc022fa445e2ff37a05b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "24871d7f43702c4656cdbbd65e0bc3ee04c3e901d6d5fa357078f964e609bb43"
 metafile = true
 
 [[files]]
@@ -166,6 +191,16 @@ hash = "66db052a77a41fb26a42ae5803d56a484ee4cae7f0a32561ec43c2afd2e84f13"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "fc26a2ef57457a03fdb5ae33bf499be96cb6b2a0b89c9bf0ea1251eb5d3bd826"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "e3a5bea7026d119847f46252d68ca9333028aba1a6a2460cd5f28608b2745bbf"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
 metafile = true
@@ -181,8 +216,28 @@ hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
 metafile = true
 
 [[files]]
+file = "mods/jumpy-boats.pw.toml"
+hash = "0ff1e7ed0eab11a07cb3bafa7c553b406893cb0ceffd4dd6728f27219bf6829d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "157d2e80198dfee4d01578d9e034eb46b2089d1cc70e03e0d571046ab9d12579"
+metafile = true
+
+[[files]]
+file = "mods/mantle.pw.toml"
+hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
 
 [[files]]
@@ -261,8 +316,23 @@ hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
+metafile = true
+
+[[files]]
+file = "mods/random-village-names.pw.toml"
+hash = "422ada06aee64496583f6a29028bb1f92978bcfd55c45ecb4cd2a9d676a68b3c"
+metafile = true
+
+[[files]]
 file = "mods/rats.pw.toml"
 hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "ded97547d477c8a436c3cb564e7abc9840876b89b0da9f1b828ef6dc17604f2f"
 metafile = true
 
 [[files]]
@@ -271,8 +341,23 @@ hash = "8535b7291edee6587dda25932bfa92047a6ddc29d8d6490e4e974ca5b37ed89f"
 metafile = true
 
 [[files]]
+file = "mods/shroom-dealers.pw.toml"
+hash = "416c6d18dbd52ced97e84afe4417dc06f06212ad4acbedb98b0b8294179ac978"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "bf36e291f04b41423d233a327ac14841166374178c355e3d35cc47a1168411b7"
+metafile = true
+
+[[files]]
 file = "mods/sit.pw.toml"
 hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
+metafile = true
+
+[[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "7b5c9093a8309bf016de0bd7bd655b6522632d6c8291c3cdeb9a27c327667311"
 metafile = true
 
 [[files]]
@@ -281,8 +366,23 @@ hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-construct.pw.toml"
+hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
+metafile = true
+
+[[files]]
+file = "mods/tome-of-blood.pw.toml"
+hash = "f73302b6df8ab6a376dc35d4c9b14606c6b36a2e85c4eb133ddb721301078ca0"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "5e6e4d187bdc9105fc152c4e5f3f46833c577a3147a83bf2155df8d4c0e9d096"
+metafile = true
+
+[[files]]
+file = "mods/treasure-bags.pw.toml"
+hash = "2a0b25ac9967d2f9b1e28901d46bae8e262f39a34b2440329286a0b938d4f392"
 metafile = true
 
 [[files]]
