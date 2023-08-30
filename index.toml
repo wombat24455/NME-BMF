@@ -491,11 +491,6 @@ hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "7b5c9093a8309bf016de0bd7bd655b6522632d6c8291c3cdeb9a27c327667311"
 metafile = true
