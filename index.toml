@@ -1,2 +1,81 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "59c031acd428bb40e6fbf42300f5b7f6f43cbe99c03c421539b0af065cb90080"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "d6c3cfacd037d8c774f0c67fd840057217fa7f35042b1d67d444e21012017262"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "02d3751895e1aea3675afb6d16424e4dcefdcf8c3fe9c486fda53b250e624ced"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "1da259efe44c59b295ce121e4a5779a8de5b893de673db071fd8b5132d09a022"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "da8427f8dbe0bcc6f2dd87c7068874f5b37043ccfa2af5b0167c72fa288150da"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
+metafile = true
+
+[[files]]
+file = "mods/physics-mod.pw.toml"
+hash = "16eb12246149ac9be3270100b08f3d495eb905444c3fbafdbda0d04f7e2ac5ea"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "5e6e4d187bdc9105fc152c4e5f3f46833c577a3147a83bf2155df8d4c0e9d096"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "1347294f5e7f5df0720783f5a29dfe6f395f5a64e6c316ad96c63a0b8c448551"
+metafile = true
+
+[[files]]
+file = "mods/wall-jump.pw.toml"
+hash = "5f7bc5a5b2e53fb4efee87fc2133558f488475fd80a8659980d124978b7f1f15"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d3631df0e5d46e75045a781efe2eda7ccbadc70c775dea298f6f5516e4f4dd74"
+metafile = true
