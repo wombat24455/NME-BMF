@@ -26,8 +26,18 @@ hash = "d6c3cfacd037d8c774f0c67fd840057217fa7f35042b1d67d444e21012017262"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
+metafile = true
+
+[[files]]
+file = "mods/astral-sorcery.pw.toml"
+hash = "3b42dd42c124325a194e8784f2658dc5d3aebf6fe20da393ac76e0eef098a38d"
 metafile = true
 
 [[files]]
@@ -51,13 +61,38 @@ hash = "956c4c9554aa266e61a9635d05d1dcf85a536349a3f8e1e3d5f8c96c94c08533"
 metafile = true
 
 [[files]]
+file = "mods/born-in-chaos.pw.toml"
+hash = "f59e8e948f2e5821d36bc42a15c2a67261907a6a0f7e5d44fcd4dbf232692a63"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "7e0af47e33a6ccae31697552c1d1ff0158a68b8507daa0f030775c0cbdb4b4f4"
+metafile = true
+
+[[files]]
+file = "mods/bountiful.pw.toml"
+hash = "8f7855046d9a88e7b97be1eb8c35ac5c79f4dc86b2d2c813a55248255d34e73c"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0542b0b4cf6a1406c6325971787095ad4e4bcfefe1ad106e7c6d0db2fdbab401"
 metafile = true
 
 [[files]]
+file = "mods/camera-overhaul-forge.pw.toml"
+hash = "d52a554dbf86946e82b2a9d1202675ebf917bc5e6f42e93cb783888a6524fe25"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "35cd0b72092f5423d6430cc8aa37c182dbf01edfe42bc8785819779fc3d6f16d"
+metafile = true
+
+[[files]]
+file = "mods/champions.pw.toml"
+hash = "2d98a2fbe0ad0de8922e7abf448d964d02a3c7a1a3eec8bfc2b26b9e47dc49b2"
 metafile = true
 
 [[files]]
@@ -86,6 +121,11 @@ hash = "b21b4164982bac91457200c78d38981a823eac8756f64f396fb22dbf42abc1a4"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "3f224b17c8bb8d913ae1acd3ae272d8a8b73d565523b5da5af7d85b4780fea10"
 metafile = true
@@ -98,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
+metafile = true
+
+[[files]]
+file = "mods/extrabotany.pw.toml"
+hash = "e38fff8adee63958f6ff14a1d1a4fab47dce569d969d403747b1a1c1d2e0986c"
 metafile = true
 
 [[files]]
@@ -141,6 +186,11 @@ hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
+metafile = true
+
+[[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "bc72a59c06f9128b3c0fd6983e87c64e12075708b047c218d79dafeb73dd70b1"
 metafile = true
@@ -173,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
+metafile = true
+
+[[files]]
+file = "mods/observerlib.pw.toml"
+hash = "8a2ae2e0314307a913514d5447466e3a50cc00a78e936e4e6be4497a406afa56"
 metafile = true
 
 [[files]]
