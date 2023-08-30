@@ -1,0 +1,13 @@
+name = "Combat-Commons"
+filename = "combat_commons-0.2.0-beta-1.16.5-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67d8a68a0e63670f5992bcc34c82a1e9b2d2a7f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3570304
+project-id = 557441

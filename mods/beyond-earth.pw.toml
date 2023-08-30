@@ -1,0 +1,13 @@
+name = "Beyond Earth"
+filename = "Space-BossTools-1.16.5-5.5e.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7f63ece8d381c850ecda591a0fc7b0e45221f05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3581611
+project-id = 377448

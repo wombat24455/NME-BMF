@@ -1,0 +1,16 @@
+name = "NME"
+author = "Ned"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b294b4166e75544a4de3843074058bda36e4a4abb70d531f259a3ffb0d6bf47b"
+
+[versions]
+forge = "36.2.39"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.4", "1.16.5"]
