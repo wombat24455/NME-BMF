@@ -181,6 +181,11 @@ hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "5cb093a9b30aca77cdd4776167f3ef20f73babda0592e3a2aa2a60a567942484"
+metafile = true
+
+[[files]]
 file = "mods/expandability.pw.toml"
 hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
 metafile = true
@@ -423,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/treasure-bags.pw.toml"
 hash = "2a0b25ac9967d2f9b1e28901d46bae8e262f39a34b2440329286a0b938d4f392"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "94decddfb34d937ac3d729253401f5219865455fa3942dd7d2bcdbceb9ea1380"
 metafile = true
 
 [[files]]
