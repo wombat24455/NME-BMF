@@ -86,6 +86,11 @@ hash = "ab7bb709a84fefbcac213a95f097621cca050e8168ee51445acf2435a9f24530"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "12892f588a6b194af62f65a02d455ad6cb62715e11a7cb04f2b5291ca7b1c840"
 metafile = true
@@ -398,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
 metafile = true
 
 [[files]]
