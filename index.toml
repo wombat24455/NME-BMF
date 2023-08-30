@@ -141,6 +141,11 @@ hash = "c3d0bcacf94a9119af00406083b597d531f1d7906654c72603e5e63014bf4c72"
 metafile = true
 
 [[files]]
+file = "mods/creeperhost-presents-soul-shards.pw.toml"
+hash = "ae87e2f26de6556bbf538512639f796673818bb98b8cbd9af6ee504b03b07526"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "3f224b17c8bb8d913ae1acd3ae272d8a8b73d565523b5da5af7d85b4780fea10"
 metafile = true
