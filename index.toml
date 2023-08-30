@@ -196,6 +196,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "39156f7792743dff8d2126b1c419633a2872984401b5f85546330b849bc9db4d"
+metafile = true
+
+[[files]]
 file = "mods/frosted-friends.pw.toml"
 hash = "4efed8626f0ff07495aedddb228c128a86b09345a242dc022fa445e2ff37a05b"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/treasure-bags.pw.toml"
 hash = "2a0b25ac9967d2f9b1e28901d46bae8e262f39a34b2440329286a0b938d4f392"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "1f75067df1765b14e351d52f9ca96c644626cdace06b3c8a130d4b995a150f7c"
 metafile = true
 
 [[files]]
