@@ -1,0 +1,13 @@
+name = "Pandora's Box"
+filename = "pandorasbox-2.2.5-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "150f7a1b1e511d33b19cf20ecc4fca046a6789fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4714006
+project-id = 222896
