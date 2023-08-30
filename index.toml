@@ -141,6 +141,11 @@ hash = "2d98a2fbe0ad0de8922e7abf448d964d02a3c7a1a3eec8bfc2b26b9e47dc49b2"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "38a1821b7aea668fa8c38286c9477893aefe345dfa400fe15995ec835c6082d7"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "02d3751895e1aea3675afb6d16424e4dcefdcf8c3fe9c486fda53b250e624ced"
 metafile = true
@@ -218,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b3a6b53d4c840fbcd72686d9de2d557e4cd4f735a719ae13f28a6d80087b17c8"
 metafile = true
 
 [[files]]
@@ -538,6 +548,16 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "ad2874c78f58e4ad32df670dfd3be7238736172402b15691baa87d97b9e2d25b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "6dea67abe33452aea5d5c54af6ae9efa216d90e9391e1e0551154a4a9aaa41c2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "f0daa2133d1af9a15250e295a87dabf3208a8ef2ab6af4e7a47eff89d802ab7d"
 metafile = true
 
 [[files]]
