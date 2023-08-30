@@ -71,11 +71,6 @@ hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
 
 [[files]]
-file = "mods/betterend-forge-port.pw.toml"
-hash = "a5826fa9281c38fa441ef8b014ae466605ab505901000a2ec726246137136f95"
-metafile = true
-
-[[files]]
 file = "mods/betternether-reforged.pw.toml"
 hash = "93db0d9a8538c2e302afa9f52c6efab4e3460cc33a398c101dffa2d0ebd3574a"
 metafile = true
@@ -223,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "69804dfa70ee67c707c4d06c6193f88c4b8a3c3fbdaf98d9c506f847a06ea90b"
 metafile = true
 
 [[files]]
@@ -528,11 +518,6 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "4beb580f470b78844b1012419ef1f35232b57d8048e45f00b8d795f7f4ec3c73"
 metafile = true
 
 [[files]]
