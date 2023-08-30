@@ -421,6 +421,11 @@ hash = "aab2419fe29a0b13b10ae0b71bb549f80d2e5e1541677c0982012c77711326f5"
 metafile = true
 
 [[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "99b6906f304e7c3548599ecf0becb1e0fea771eb4ab3d243b51a7ad434ec946d"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "d7605878a5a7cdb600d80b10b1dadb02b9ef7eef4c5b810898e50cde5a263261"
 metafile = true
