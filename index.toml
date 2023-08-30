@@ -386,11 +386,6 @@ hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "6d7e21afb6345e8f99bae1903c69141134fd10a773d5f431145a1f83cd1887ae"
-metafile = true
-
-[[files]]
 file = "mods/random-village-names.pw.toml"
 hash = "422ada06aee64496583f6a29028bb1f92978bcfd55c45ecb4cd2a9d676a68b3c"
 metafile = true
