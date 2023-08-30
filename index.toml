@@ -196,6 +196,11 @@ hash = "e38fff8adee63958f6ff14a1d1a4fab47dce569d969d403747b1a1c1d2e0986c"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "a424ec5b93294f8c1d51b21684233052965e6ee2b343213813599a031804e93f"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "0ff1e7ed0eab11a07cb3bafa7c553b406893cb0ceffd4dd6728f27219bf6829d"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "df69a98ee4cfa09c29e7702c2948007de9ad2e7c03d618c79d664a79cd6a6da1"
 metafile = true
 
 [[files]]
