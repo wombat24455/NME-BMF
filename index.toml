@@ -171,6 +171,11 @@ hash = "207aed7f36f7cff25ba7d3de546b3351b6e3cfaed26ef3c5b14aeca6f419285d"
 metafile = true
 
 [[files]]
+file = "mods/druidcraft.pw.toml"
+hash = "871b0cb97b3833d60734c71bbd069a521e009a1b97d7595138cd9ce34a9979ae"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
 metafile = true
