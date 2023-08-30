@@ -321,6 +321,16 @@ hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "e041e00d5469efd2ad52d084da426c781ec13df532dce3cf1b9bedf30079b984"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "090b142f2ccd86265f8dc1d52c8d83f785aa9712bd088b11cd6cdf65ea6c1c98"
+metafile = true
+
+[[files]]
 file = "mods/observerlib.pw.toml"
 hash = "8a2ae2e0314307a913514d5447466e3a50cc00a78e936e4e6be4497a406afa56"
 metafile = true
