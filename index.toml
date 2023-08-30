@@ -21,8 +21,18 @@ hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "0542b0b4cf6a1406c6325971787095ad4e4bcfefe1ad106e7c6d0db2fdbab401"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "35cd0b72092f5423d6430cc8aa37c182dbf01edfe42bc8785819779fc3d6f16d"
 metafile = true
 
 [[files]]
@@ -38,6 +48,16 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "736dbe1ea51b7798b21045657291f02b530875fd94b98c084de4acedc9999f2b"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "b21b4164982bac91457200c78d38981a823eac8756f64f396fb22dbf42abc1a4"
 metafile = true
 
 [[files]]
@@ -61,8 +81,38 @@ hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "5d242849b481d8e19ba20dc1cbb56c8d91ca3f3466a7e77c9f7a52c6f96f09b2"
+metafile = true
+
+[[files]]
+file = "mods/hats.pw.toml"
+hash = "cbcf77694c822a81329e43413cc94e317701cb036068e4f6df6668ce2f3bfb6d"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "da8427f8dbe0bcc6f2dd87c7068874f5b37043ccfa2af5b0167c72fa288150da"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "66db052a77a41fb26a42ae5803d56a484ee4cae7f0a32561ec43c2afd2e84f13"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
 metafile = true
 
 [[files]]
@@ -73,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "fe3b73d41512471f2e6a1587fe7ef07e7bd436fa9be27a22ac1f8d40443ba15e"
+metafile = true
+
+[[files]]
+file = "mods/mutant-beasts.pw.toml"
+hash = "cf02d880e3a8c5d5eaf3e0edd888ba22179f115f7818d3a09060fa4902d17bf1"
 metafile = true
 
 [[files]]
@@ -98,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+hash = "13c7d44940110bb9d8149f3e2403356e1fe33c1eece4a197bcb5835cdb1f3de4"
 metafile = true
 
 [[files]]
@@ -128,6 +188,16 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "8535b7291edee6587dda25932bfa92047a6ddc29d8d6490e4e974ca5b37ed89f"
+metafile = true
+
+[[files]]
+file = "mods/sit.pw.toml"
+hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
 metafile = true
 
 [[files]]
