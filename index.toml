@@ -136,6 +136,11 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
+file = "mods/creeper-confetti.pw.toml"
+hash = "c3d0bcacf94a9119af00406083b597d531f1d7906654c72603e5e63014bf4c72"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "3f224b17c8bb8d913ae1acd3ae272d8a8b73d565523b5da5af7d85b4780fea10"
 metafile = true
