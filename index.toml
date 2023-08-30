@@ -226,6 +226,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
+metafile = true
+
+[[files]]
 file = "mods/frosted-friends.pw.toml"
 hash = "4efed8626f0ff07495aedddb228c128a86b09345a242dc022fa445e2ff37a05b"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
 hash = "7e6680eaf3af46acac0bcbd468f3490267e3c0d04a4f29f77cc32712cef55406"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
