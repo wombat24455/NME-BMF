@@ -291,6 +291,11 @@ hash = "e3a5bea7026d119847f46252d68ca9333028aba1a6a2460cd5f28608b2745bbf"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "a5b21098863b296078f411aabe8699376f969c067375ffb2a254ee660f30f330"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "68995b9ea503260f1a5dafe4667b028fa44c3079d50c7372d85f842db274088e"
 metafile = true
@@ -493,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "4ce44809ab2391253ed37032692ec47e85d6dc414552ac6f3efcb429f4e5c7b9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
 metafile = true
 
 [[files]]
