@@ -131,6 +131,11 @@ hash = "2d98a2fbe0ad0de8922e7abf448d964d02a3c7a1a3eec8bfc2b26b9e47dc49b2"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "a879bc85f06bd961fe1d27c758ae8a7e7886d51905f2a0a61934e6697c6954f3"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "02d3751895e1aea3675afb6d16424e4dcefdcf8c3fe9c486fda53b250e624ced"
 metafile = true
@@ -498,6 +503,16 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "dfdc3a2acb84cccc00c8cf27203019f5fcc9d10f9c9d0c524009f5094b19ccc0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c4f0f9a5c8b0d53f2cde0befb4d96a1af804f2eba849b20b4bf2df71f747e97c"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "88dd07c94961c665a7df7d663b494b3fbc4f6ee18e16ac61439b063cadb5ae5d"
 metafile = true
 
 [[files]]
