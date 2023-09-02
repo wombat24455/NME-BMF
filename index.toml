@@ -176,11 +176,6 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
-file = "mods/creeper-confetti.pw.toml"
-hash = "c3d0bcacf94a9119af00406083b597d531f1d7906654c72603e5e63014bf4c72"
-metafile = true
-
-[[files]]
 file = "mods/creeperhost-presents-soul-shards.pw.toml"
 hash = "ae87e2f26de6556bbf538512639f796673818bb98b8cbd9af6ee504b03b07526"
 metafile = true
@@ -213,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
+metafile = true
+
+[[files]]
+file = "mods/ex-nihilo-sequentia.pw.toml"
+hash = "8f16863cda20bfe9da5ac1a3420f1b6919072558f0219833336bc01aa584efbf"
 metafile = true
 
 [[files]]
