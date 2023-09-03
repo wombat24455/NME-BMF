@@ -1,0 +1,13 @@
+name = "Ars EnderStorage"
+filename = "ArsEnderStorage-1.16.5-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3acd2b72f68360b0b47a1c5771e7ec31a686417"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3590249
+project-id = 561779
