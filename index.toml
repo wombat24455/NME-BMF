@@ -46,8 +46,28 @@ hash = "d6c3cfacd037d8c774f0c67fd840057217fa7f35042b1d67d444e21012017262"
 metafile = true
 
 [[files]]
+file = "mods/ars-arsenal.pw.toml"
+hash = "1580f40932d6349d2b438eeeb34602e6becf621f697ee7a962eeed9757475867"
+metafile = true
+
+[[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "00d63f3e7e810a58bc9180c190ca497d85e00a4933888f6953ab41feb066ebba"
+metafile = true
+
+[[files]]
+file = "mods/ars-enderstorage.pw.toml"
+hash = "ef2de516ed2060b20ac22d20532d80eb8b417e86c9fbd02ee863bf3f043094c7"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
+metafile = true
+
+[[files]]
+file = "mods/ars-omega.pw.toml"
+hash = "99f14c496cd721a7db3e96e49bf4c1f151d004cde61daaa00146e76a461cf707"
 metafile = true
 
 [[files]]
@@ -206,6 +226,11 @@ hash = "aa7791567710f5ed615f4bcc513a65ac80807982996408e7a3c281f4a2bc5a56"
 metafile = true
 
 [[files]]
+file = "mods/ender-storage-1-8.pw.toml"
+hash = "9a8c4e1f33f6f5349e7fd841734fa1db255a9a2e531cfc35c43163da3986ea87"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
 metafile = true
@@ -218,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "856e791972a4705daba7d691290f81ed67a061e4850eb17bd6c9bb82b7b49e20"
+metafile = true
+
+[[files]]
+file = "mods/extra-utilities-reborn.pw.toml"
+hash = "286302d31e4dac780110d557c174db5ccad236d40b0a9b4c416c13672e3e3cea"
 metafile = true
 
 [[files]]
@@ -396,6 +426,11 @@ hash = "4e7332903e246ca9067a4a0233768febee04bb0e0000dfa5a9013c24caf98e9a"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "93d9d65d11722a0a636670c01b11e25db92fc17b233686a50f7ccfac6aae2514"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "3d41dcd2e8fc986509671342451cc7b8fc0c8887820fa409161acade8248214c"
 metafile = true
@@ -548,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/tome-of-blood.pw.toml"
 hash = "f73302b6df8ab6a376dc35d4c9b14606c6b36a2e85c4eb133ddb721301078ca0"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "ea3b384a685009452c703dc55ca6c6342c79b423c5d870568a454f4f1c5c57ea"
 metafile = true
 
 [[files]]
