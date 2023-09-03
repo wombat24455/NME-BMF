@@ -1,0 +1,13 @@
+name = "CB: Compressed Blocks"
+filename = "Compressed Blocks-forge-1.16.5-1.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IQRVlbit/versions/dOgpFX4L/Compressed%20Blocks-forge-1.16.5-1.3.5.jar"
+hash-format = "sha1"
+hash = "1afa7bb2ac731434e2fa19f83ea945b2f67ead47"
+
+[update]
+[update.modrinth]
+mod-id = "IQRVlbit"
+version = "dOgpFX4L"
