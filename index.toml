@@ -66,11 +66,6 @@ hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
 metafile = true
 
 [[files]]
-file = "mods/ars-omega.pw.toml"
-hash = "99f14c496cd721a7db3e96e49bf4c1f151d004cde61daaa00146e76a461cf707"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "fca21ba2e8935773ce2dee899109caee7851fa98b1e72e927bf0dc7b3f599430"
 metafile = true
