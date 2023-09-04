@@ -91,6 +91,11 @@ hash = "93db0d9a8538c2e302afa9f52c6efab4e3460cc33a398c101dffa2d0ebd3574a"
 metafile = true
 
 [[files]]
+file = "mods/biggerreactors.pw.toml"
+hash = "a141da5784fc34982b38a07a768fc9fb2e368a576b6dfe4df9dfe9496d541fef"
+metafile = true
+
+[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "ab7bb709a84fefbcac213a95f097621cca050e8168ee51445acf2435a9f24530"
 metafile = true
@@ -171,6 +176,11 @@ hash = "c26308548643945934745be773754649df081cd5163b90f1f805a7eced96e1f8"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "1e95c8b5e4154d24345875c263488989d8222e24065ab21cde7aaf145e750e2b"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "a5af19c3b7903d7891f6afb804d923e3bd699b49c102580ea60c996b11977ee7"
 metafile = true
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/combat-commons.pw.toml"
 hash = "987c79a2ddc14a193382cc3501bc84a90689ca2d4b9a76c24f805ef356043982"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "43c3d098af2f3f60ede43808d64ddeb057a019ae91096c144a3c9ea80d330bb2"
 metafile = true
 
 [[files]]
@@ -496,6 +511,11 @@ hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
+file = "mods/phosphophyllite.pw.toml"
+hash = "aa785bb7471e70497ab115f1fbf1cc69297ff10bb1fc59b21dee5a5cca63ae3a"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
@@ -578,6 +598,16 @@ metafile = true
 [[files]]
 file = "mods/the-undergarden.pw.toml"
 hash = "a11396ee6473345fff9ce1539f1897fa2b370faabe651f1536a1da0577277438"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "f312dfc5bc8805e77065dc2db25eebf2bd53f8c068d18c21952018cbbe82de77"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "068c5ac6f7be4330d30b6e298c94db4f28b084d854185b389370b6051b8b204b"
 metafile = true
 
 [[files]]
