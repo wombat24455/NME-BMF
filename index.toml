@@ -251,6 +251,11 @@ hash = "9f30d14b387622c56f7411f68726609b14a1405ed3f9f1116e8f72a8e5b4f0b9"
 metafile = true
 
 [[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "8d48d1779abf3b4eb5d70284491aaacbb2ddb297d008036885288af31b0626fb"
+metafile = true
+
+[[files]]
 file = "mods/ex-nihilo-sequentia.pw.toml"
 hash = "8f16863cda20bfe9da5ac1a3420f1b6919072558f0219833336bc01aa584efbf"
 metafile = true
