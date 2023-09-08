@@ -1,13 +1,13 @@
 name = "Rats"
-filename = "rats-7.2.0-1.16.5.jar"
+filename = "rats-7.1.1-1.16.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c7081bcd0ac2a5357debe34efece12aa865e271"
+hash = "91a7df17faa544e7a749844bcd2d0df3c29f68b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3319810
+file-id = 3189312
 project-id = 323596

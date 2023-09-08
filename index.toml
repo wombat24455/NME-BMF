@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/rats.pw.toml"
-hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
+hash = "0b3e1e3386de62414a2548ae2de8c474aaf66bac6ec2250617d6de041b64a055"
 metafile = true
 
 [[files]]
