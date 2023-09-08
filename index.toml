@@ -361,11 +361,6 @@ hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "bc41332a54157c3753a817a7e4a2c77653bba74117d04f7d7d2345db6ca6ded1"
-metafile = true
-
-[[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "0ff1e7ed0eab11a07cb3bafa7c553b406893cb0ceffd4dd6728f27219bf6829d"
 metafile = true
@@ -566,6 +561,11 @@ hash = "3f7bdf144b09082021c01cce53753e045f7d2077912057c4f547f3cfe5854e81"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "10939c13c442ab0747e539b280e01ecc89c3f2710e1bbda34589593c98e05a5e"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "7b5c9093a8309bf016de0bd7bd655b6522632d6c8291c3cdeb9a27c327667311"
 metafile = true
@@ -648,6 +648,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "4931c4e65980ea1a95a61b35b18e7e893d59befce9c0764c387aa7773c44b15f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b4646b1164e56466984487efdd530e7a05c0a5e1ab888ef2585c4b16d3aded15"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a048fb984f082b121d1a02d85958ce7fcd966872d159ca13bc32001c2131b89b"
 metafile = true
 
 [[files]]
