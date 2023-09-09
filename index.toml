@@ -6,6 +6,11 @@ hash = "86ec24414dfb457eca90bb8879c566c7dfdd8064bea0703327b09450774dc8eb"
 metafile = true
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "6cfe7b5ff571954fa4a81813f6d7e1074a0e39aad8e49efd3329dabe598b9a3b"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "59c031acd428bb40e6fbf42300f5b7f6f43cbe99c03c421539b0af065cb90080"
 metafile = true
