@@ -151,6 +151,11 @@ hash = "ea0193f6dcd9c745d87e7ec4918aa9a581dde2735b7d05c82c8bd363c89173e0"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
+metafile = true
+
+[[files]]
 file = "mods/champions.pw.toml"
 hash = "2d98a2fbe0ad0de8922e7abf448d964d02a3c7a1a3eec8bfc2b26b9e47dc49b2"
 metafile = true
@@ -241,6 +246,11 @@ hash = "aa7791567710f5ed615f4bcc513a65ac80807982996408e7a3c281f4a2bc5a56"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "68dd45de5c7ed5f063848515618e913b1ae25cbf608491a2624f891c7a593739"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "9a8c4e1f33f6f5349e7fd841734fa1db255a9a2e531cfc35c43163da3986ea87"
 metafile = true
@@ -252,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "8d48d1779abf3b4eb5d70284491aaacbb2ddb297d008036885288af31b0626fb"
+hash = "bceca76fd8b313f8fb1b8dddf2a7df33de58e7773e5677e09d46ab793b59f7c4"
 metafile = true
 
 [[files]]
@@ -336,6 +346,11 @@ hash = "fc26a2ef57457a03fdb5ae33bf499be96cb6b2a0b89c9bf0ea1251eb5d3bd826"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "4ecaac41a9bbd6de77a8f843b50951e72a3de05fd4d5d7922cf331c264744a2a"
+metafile = true
+
+[[files]]
 file = "mods/inventory-pets.pw.toml"
 hash = "e3a5bea7026d119847f46252d68ca9333028aba1a6a2460cd5f28608b2745bbf"
 metafile = true
@@ -393,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "8e4bcfb3c7414bad4fa427e5381fe9e44d8d7ba197b76ed3701c00df8bf6c2a3"
 metafile = true
 
 [[files]]
@@ -511,6 +531,11 @@ hash = "aa785bb7471e70497ab115f1fbf1cc69297ff10bb1fc59b21dee5a5cca63ae3a"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "14660404bef1c2a48fdd43abd5abf5cd778c18faea8e4f0a3e860e4283c82b51"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
 metafile = true
@@ -526,18 +551,13 @@ hash = "422ada06aee64496583f6a29028bb1f92978bcfd55c45ecb4cd2a9d676a68b3c"
 metafile = true
 
 [[files]]
-file = "mods/rats.pw.toml"
-hash = "0b3e1e3386de62414a2548ae2de8c474aaf66bac6ec2250617d6de041b64a055"
-metafile = true
-
-[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ded97547d477c8a436c3cb564e7abc9840876b89b0da9f1b828ef6dc17604f2f"
 metafile = true
 
 [[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "8535b7291edee6587dda25932bfa92047a6ddc29d8d6490e4e974ca5b37ed89f"
+file = "mods/rftools-base.pw.toml"
+hash = "ba6d6368d3c07954bb4a47ef83c21e246598c7f94812e5bdbf71f14d32b9c043"
 metafile = true
 
 [[files]]
@@ -616,6 +636,11 @@ hash = "1dda287b20d9afec27864e9625dc7c4017f66ece39e117c10dcd97edc42c68a3"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "5117466a8047ccafae0fbbdf83f461bf0cec9747610f8327aae183895cdc6d2f"
+metafile = true
+
+[[files]]
 file = "mods/tome-of-blood.pw.toml"
 hash = "f73302b6df8ab6a376dc35d4c9b14606c6b36a2e85c4eb133ddb721301078ca0"
 metafile = true
@@ -658,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a048fb984f082b121d1a02d85958ce7fcd966872d159ca13bc32001c2131b89b"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "6ceb528434d767892cba0a3fcc0c4228eaf212b0f80ef633d6ae9308005f5a5a"
 metafile = true
 
 [[files]]
