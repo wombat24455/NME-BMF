@@ -566,6 +566,21 @@ hash = "ba6d6368d3c07954bb4a47ef83c21e246598c7f94812e5bdbf71f14d32b9c043"
 metafile = true
 
 [[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "a43ae0339aae015f86b2eb63eabafcf9eab37932501c9008475606957d7188e0"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "88313937618315576731870e435fc70d441b5485ad5f362717fe74269b9c47cd"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "6422252c1f9b5010fa16d37994a8de436d643549052761c7fbe9a61e22b5e126"
+metafile = true
+
+[[files]]
 file = "mods/shroom-dealers.pw.toml"
 hash = "416c6d18dbd52ced97e84afe4417dc06f06212ad4acbedb98b0b8294179ac978"
 metafile = true
