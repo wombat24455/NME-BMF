@@ -151,6 +151,11 @@ hash = "35cd0b72092f5423d6430cc8aa37c182dbf01edfe42bc8785819779fc3d6f16d"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "c672f28f4e820ba7b1cb81d8ac7583c5c7f9fcf5118c39884405ed84ad3518b7"
+metafile = true
+
+[[files]]
 file = "mods/cb-compressed-blocks.pw.toml"
 hash = "ea0193f6dcd9c745d87e7ec4918aa9a581dde2735b7d05c82c8bd363c89173e0"
 metafile = true
