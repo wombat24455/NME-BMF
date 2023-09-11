@@ -546,6 +546,11 @@ hash = "14660404bef1c2a48fdd43abd5abf5cd778c18faea8e4f0a3e860e4283c82b51"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "4437b60017c0598182f1c25a7b50dd201f34c7ea98de1876fb4617fc76cce69a"
 metafile = true
