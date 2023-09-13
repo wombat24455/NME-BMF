@@ -226,6 +226,11 @@ hash = "ee6b63b9f81d87c75ac5115232548df5347fe9456f7ee8a80cd137043616191a"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "5fe24e7230fcf4a40f7cd0b39b6680464eee43262223f37df9a50426581e6c44"
+metafile = true
+
+[[files]]
 file = "mods/creeperhost-presents-soul-shards.pw.toml"
 hash = "ae87e2f26de6556bbf538512639f796673818bb98b8cbd9af6ee504b03b07526"
 metafile = true
@@ -383,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "1dfaaf52028bde8ebe007a37097ab633579665ba18315ec496e995c1969167fb"
 metafile = true
 
 [[files]]
