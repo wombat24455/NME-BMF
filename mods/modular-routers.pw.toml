@@ -1,0 +1,13 @@
+name = "Modular Routers"
+filename = "modular-routers-1.16.5-7.5.46.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/OQS26uyk/modular-routers-1.16.5-7.5.46.jar"
+hash-format = "sha1"
+hash = "9c5527ebdfe9d8684b85a8e9585a8b9249811103"
+
+[update]
+[update.modrinth]
+mod-id = "EuTS81Z3"
+version = "OQS26uyk"

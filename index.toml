@@ -461,6 +461,11 @@ hash = "9d3255b25a9f08112f6f18061a73c338189e396d3164942922ce25c613974fea"
 metafile = true
 
 [[files]]
+file = "mods/modular-routers.pw.toml"
+hash = "0d6bc7b2b344efca73e70ab09c22847461eeb0e834bc76af3e2f3ddd571da043"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
 metafile = true
