@@ -86,6 +86,11 @@ hash = "9b2088287d126347cb44a539b7104462e0a4aaa0b871577ca13902398f174f52"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "dbb57ddc77e89dc36f6eae10bdfaf6a3a152b03738cac14af28f28bc0dabd7c5"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "33fef2ac176ffb172524907c4416dfb97c84c0418288ceb6cd735064113fb66d"
 metafile = true
@@ -443,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "8e4bcfb3c7414bad4fa427e5381fe9e44d8d7ba197b76ed3701c00df8bf6c2a3"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "7ac8ed8f18959aea0f3fae93c8b94755f34d25991fb7e81bd7ddd629596fe2ac"
 metafile = true
 
 [[files]]
