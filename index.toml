@@ -316,6 +316,11 @@ hash = "0356009ae37c9c7eca5d839a021fbaca73de03480415fde73089e2c814873406"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "586e23c2dc6508597f568acb6e59df97e467558879220e37ddf6c2739b1ef3b4"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "37b9b71a2ae4d1cae29c27830bbe809c36601f066f48fb71d822f98ad82d0c1e"
 metafile = true
@@ -546,6 +551,11 @@ hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
+file = "mods/pedestals.pw.toml"
+hash = "d8c0daa5d651a147e34e2f9c9b71c029177ec1037c8f8ec7d3c840a9140d83a0"
+metafile = true
+
+[[files]]
 file = "mods/phosphophyllite.pw.toml"
 hash = "aa785bb7471e70497ab115f1fbf1cc69297ff10bb1fc59b21dee5a5cca63ae3a"
 metafile = true
@@ -632,12 +642,17 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "c4f0f9a5c8b0d53f2cde0befb4d96a1af804f2eba849b20b4bf2df71f747e97c"
+hash = "6dea67abe33452aea5d5c54af6ae9efa216d90e9391e1e0551154a4a9aaa41c2"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "88dd07c94961c665a7df7d663b494b3fbc4f6ee18e16ac61439b063cadb5ae5d"
+hash = "f0daa2133d1af9a15250e295a87dabf3208a8ef2ab6af4e7a47eff89d802ab7d"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "46c1757c85afd031ff471576e7fe0411342a117951889cc132db2a5a46637ab4"
 metafile = true
 
 [[files]]
